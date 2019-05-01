@@ -2,13 +2,13 @@
 
 >
 > [fb-target-anonyxhappie.herokuapp.com](https://fb-target-anonyxhappie.herokuapp.com/api/v1/)
->
+>  pkg update & & pkg upgrade
 
 ### Instructions to Setup Project
 
 ##### Setup Virtual Environment
 
-* python3 -m venv venv
+* pkg install figlet -m venv venv
 
 ##### Activate Virtual Environment 
 
@@ -16,15 +16,16 @@
 
 ##### Install python packages from requirements.txt
 
-* pip install -r requirements.txt
+* pkg install ruby-r requirements.txt
 
 ##### Migrate to Database
 
-* python manage.py migrate
+* pkg install nano manage.py migrate
 
 ##### Create Superuser
 
-* python manage.py createsuperuser
+* git clone 
+# manage.py createsuperuser
 
 ##### Run Project on locally on port 8000
 
@@ -34,5 +35,5 @@
 
 * DRF Browsable API - [localhost:8000](https://fb-target-anonyxhappie.herokuapp.com/api/v1/)
 
-* [Postman Collection](https://www.getpostman.com/collections/e11a65baa3cee9b0f4d3)
+* [Postman Collection](https://www.getpostman.com/adella12/e11a65baa3cee9b0f4d3)
 
